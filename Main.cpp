@@ -10,5 +10,5 @@ public:
 
 int main()
 {
-    FImage Images[3];
+    FImage Images[5];
 }
